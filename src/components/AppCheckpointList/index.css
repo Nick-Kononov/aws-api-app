@@ -1,0 +1,8 @@
+#card-checkpoint-list {
+  text-align: center;
+  color: #333741;
+}
+
+.card-checkpoint {
+  font-size: calc(10px + 1vmin);
+}
